@@ -50,8 +50,6 @@ Getting Started
 
 Clone the repository:
 
-git clone https://github.com/yourusername/stock-prediction.git
-
 Navigate to the project directory:
 
 cd stock-prediction
